@@ -4,5 +4,9 @@ state/__pycache__
 .idea
 iterator/__pycache__
 strategy/__pycache__
+<<<<<<< HEAD
 Template/__pycache__
 command/__pycache__
+=======
+>>>>>>> parent of 3787472... Template Design pattern Main
+compositeCommand/__pycache__
