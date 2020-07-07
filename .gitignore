@@ -11,3 +11,4 @@ command/__pycache__
 >>>>>>> parent of 3787472... Template Design pattern Main
 compositeCommand/__pycache__
 command/editor/__pycache__
+observer/__pycache__
