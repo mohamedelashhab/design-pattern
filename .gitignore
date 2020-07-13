@@ -14,3 +14,4 @@ command/editor/__pycache__
 observer/__pycache__
 mediator/__pycache__
 chainOfResponsibility/__pycache__
+visitor/__pycache__
